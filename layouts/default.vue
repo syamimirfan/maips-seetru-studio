@@ -36,13 +36,11 @@ onMounted(async () => {
 watch(() => route.path, () => {
   updateSelectedMenu()
 })
-
-
-// Responsive table
+/* Responsive table
 const menuVisible = ref(false)
 const toggleMenu = () => {
   menuVisible.value= !menuVisible.value;
-};
+}; */
 
 </script>
 
@@ -235,36 +233,29 @@ const toggleMenu = () => {
 </div>
 
   <!-- Menu Section: Hidden by default, displayed when the button is clicked -->
-  <div v-if="menuVisible" class="fixed inset-0 bg-white z-50 shadow-md p-6 hidden md:block lg:hidden xl:hidden 2xl:hidden">
-    <!-- Close button -->
+  <!-- <div v-if="menuVisible" class="fixed inset-0 bg-white z-50 shadow-md p-6 hidden md:block lg:hidden xl:hidden 2xl:hidden">
     <button @click="toggleMenu" class="absolute top-4 right-4 p-2 text-black">
       <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-black" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
       </svg>
     </button>
-
-    <!-- Content in a Column Layout -->
     <div class="flex flex-col gap-6">
-      <!-- Search Function -->
+   
       <div>
         <input type="text" placeholder="Search..." class="w-full p-2 border border-gray-300 rounded-lg" />
       </div>
-
-      <!-- Navigation -->
       <nav class="flex flex-col gap-4">
         <a href="#" class="text-black font-semibold">Home</a>
         <a href="#" class="text-black font-semibold">About</a>
         <a href="#" class="text-black font-semibold">Services</a>
         <a href="#" class="text-black font-semibold">Contact</a>
       </nav>
-
-      <!-- Information Section -->
       <div class="text-black">
         <h3 class="text-xl font-semibold">Information</h3>
         <p>This is some information content.</p>
       </div>
     </div>
-  </div>
+  </div> -->
 
  <!-- Phone Header -->
 <div class="block md:hidden lg:hidden xl:hidden 2xl:hidden sticky top-0 bg-white z-50 shadow-md w-full">
