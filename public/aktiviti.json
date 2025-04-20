@@ -1,0 +1,41 @@
+[
+    {
+        "image": "https://s3-alpha-sig.figma.com/img/139b/e7eb/6a0fa5321edbcef7bc54eb3e010f9ca7?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=AF~kHOzhLE1rvRtkouRiov3LLw5ZQswcaS4G3SX7p2YGzVt~cSof0UVxbDYJze1ldU~bQUdmhlK5LVUeZC~6wYvMPZK8hBbSpIyHCCDqpi~y2OX-0K8FgKy3RKH0ni08ljd3i5gYprhzglFzeCQvHtFLHDBQNMxby6V0MQs2w07vWdvxs1Zvb0qK~b5ol5-xymCybYdAn1F6Pr1ZvfTJl-T2HV1yuNPDbISfA~tp5NsdifWTmSW9saQbip0l6Jhd2U5tiN2JDrlT4lWQWttl77coYeKOf197g3qjApsFVmT04MfhjzZkvGAS79xAs6S0XKttqI4hgBH4TqfKvW1dOw__",
+        "title": "Forum 'Kola-Ku Sayang'",
+        "date": "12-13/08/2024 (Isnin-Selasa)",
+        "time": "Isnin, 6:00 pm - Selasa, 10:00 pm",
+        "location": "Masjid Ar-Rahmaniah, Kuala Perlis",
+        "organizer": "MAIPs, JAIPs",
+        "phone": "+604 979 4439",
+        "specificDate": {
+            "day": "12",
+            "month": "Aug"
+        }
+    },
+    {
+        "image": "https://s3-alpha-sig.figma.com/img/f126/b644/371b2e96ee1fecb2b07d79bfc2786bfd?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=AlzcZe0DeH4HBs5LXnF9750ZlVR4PKcm77-VxzGu1X6Mp6tFN2G15migik8iF8cr6k9GLwSPHLoqM90OdyFymHuUwRaOUdnMjLWAIwoXEOLZziN9F8pPrgYXiXJt9sRM76u7hgtYt76iK71JuXrKQp~Ne3O9ko~9UXGBgpTEy5F~RaJehfXy5D1I5EOI5R3A1q486GoVvjT6J9wq1xbwJZl9hg2zf3s0FAhNSCymnBDOo~B546T~k2ytuq7MJ9dWwAHqI-ywfizG2upQwJxLWfDXCniajHBioavDpFgUhtwQOl2BefdyuynH9c2cEr0PCyS5kP3JJ3yC1uFHuPs6mQ__",
+        "title": "Temuduga Terbuka Program Transformasi ...",
+        "date": "14/08/2-2024 (Rabu)",
+        "time": "9:00 am - 3:00 pm",
+        "location": "Akademi Binaan Malaysia Wilayah Utara Si...",
+        "organizer": "MAIPs, JAIPs",
+        "phone": "+604 979 4439",
+        "specificDate": {
+            "day": "14",
+            "month": "Aug"
+        }
+    },
+        {
+        "image": "https://s3-alpha-sig.figma.com/img/fe61/71ab/b89eff8058966025c4eabf68f9978c43?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sm7tWcULpfaCjjQnkhVRPcRcqRBeXwG-g8whdj47Etz3FOovbmEoBZj7VZJyYRC~-2dsDaUrNGlOehAk~NVy63MeZ5sWEVhubV3pIcYMPNd6atE8iw2q8iVY3d6OIwAOgn349poQ0UCRWARsYdF-biQLGHyPVBZH5QzRZTaU2kdLm8veMPVFtvhATZWCG0HTB5gzfAB2jOLvl8NfjCQxKagh06TvlVbCMFzcORHhGXSeILhH6LNVdFW1Cy-HYWG7Z6K53wC0-cOOQQK6Gfc48~4nC0qfUMvZR1zTsVu41IP8zBY5fqfLZRncbNWZjloMqMGWaCrpvSSrJj4qak4AEA__",
+        "title": "Penyertaan MAIPs Dalam EKS PERBAH 2019 (Hari K...",
+        "date": "09/08/2024 (Khamis)",
+        "time": "9:00 am - 3:00 pm",
+        "location": "Sabah",
+        "organizer": "MAIPs, JAIPs",
+        "phone": "+604 979 4439",
+        "specificDate": {
+            "day": "14",
+            "month": "Aug"
+        }
+    }
+]

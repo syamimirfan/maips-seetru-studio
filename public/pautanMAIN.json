@@ -1,0 +1,67 @@
+[
+    {
+        "image": "/main/main1.svg",
+        "title": "Pulau Penang",
+        "link": "https://www.mainpp.gov.my/"
+    },
+    {
+        "image": "/main/main2.svg",
+        "title": "Kedah",
+        "link": "https://maik.kedah.gov.my/"
+    },
+    {
+        "image": "/main/main3.svg",
+        "title": "Perak",
+        "link": "https://www.maiamp.gov.my/"
+    },
+    {
+        "image": "/main/main4.svg",
+        "title": "Selangor",
+        "link": "https://mais.gov.my/"
+    },
+    {
+        "image": "/main/main5.svg",
+        "title": "Wilayah Persekutuan",
+        "link": "https://www.maiwp.gov.my/"
+    },
+    {
+        "image": "/main/main6.svg",
+        "title": "Negeri Sembilan",
+        "link": "https://www.mains.gov.my/v2/"
+    },
+    {
+        "image": "/main/main7.svg",
+        "title": "Melaka",
+        "link": "https://www.maim.gov.my/index.php/ms/"
+    },
+    {
+        "image": "/main/main8.svg",
+        "title": "Pahang",
+        "link": "https://muip.gov.my/"
+    },
+    {
+        "image": "/main/main9.svg",
+        "title": "Kelantan",
+        "link": "https://www.e-maik.my/v2/"
+    },
+    {
+        "image": "/main/main10.svg",
+        "title": "Terengganu",
+        "link": "https://www.maidam.gov.my/"
+    },
+    {
+        "image": "/main/main11.svg",
+        "title": "Johor",
+        "link": "https://www.maij.gov.my/"
+    },
+    {
+        "image": "/main/main12.svg",
+        "title": "Sarawak",
+        "link": "https://mis.sarawak.gov.my/web/home/index/"
+    },
+    {
+        "image": "//main/main13.svg",
+        "title": "Sabah",
+        "link": "https://muis.sabah.gov.my/"
+    }
+]

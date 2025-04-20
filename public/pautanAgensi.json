@@ -1,0 +1,37 @@
+[
+    {
+        "image": "/agensi/agensi1.svg",
+        "title": "myGov",
+        "link": "https://www.malaysia.gov.my/portal/index"
+    },
+    {
+        "image": "/agensi/agensi2.svg",
+        "title": "MDEC",
+        "link": "https://mdec.my/malaysiadigital"
+    },
+    {
+        "image": "/agensi/agensi3.svg",
+        "title": "PEMUDAH",
+        "link": "https://www.pemudah.gov.my/"
+    },
+    {
+        "image": "https://www.maips.gov.my/wp-content/uploads/2024/12/jakim.svg",
+        "title": "JAKIM",
+        "link": "https://www.islam.gov.my/ms/"
+    },
+    {
+        "image": "/agensi/agensi5.svg",
+        "title": "JAWHAIR",
+        "link": "https://www.jawhar.gov.my/"
+    },
+    {
+        "image": "/agensi/agensi6.svg",
+        "title": "Portal Data Terbuka Rasmi Malaysia",
+        "link": "https://data.gov.my/"
+    },
+    {
+        "image": "/agensi/agensi7.svg",
+        "title": "Agensi SUK Perlis",
+        "link": "https://www.perlis.gov.my/"
+    }
+]

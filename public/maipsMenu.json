@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Utama",
+    "path": "/",
+    "items": [],
+    "isSelected": false
+  },
+  {
+    "title": "Tentang MAIPs",
+    "path": "/tentang",
+    "items": [
+      "DYMM Tuanku Raja Perlis",
+      "DYTM Tuanku Yang Dipertua",
+      "Perutusan Ketua Pegawai Eksekutif",
+      "Mengenai MAIPs",
+      "Ahli Majlis",
+      "Carta Organisasi",
+      "Agensi Bersama",
+      "Subsidiari",
+      "Piagam Pelanggan"
+    ],
+    "isSelected": false
+  },
+  {
+    "title": "Perkhidmatan",
+    "path": "/perkhidmatan",
+    "items": [
+      "Jenis-jenis Zakat",
+      "Skim Bantuan Zakat",
+      "Wakaf",
+      "Submer Am",
+      "Fasiliti",
+      "Pusat Warisan",
+      "Adat Istiadat Melayu",
+      "Hebahan Warta"
+    ],
+    "isSelected": false
+  },
+  {
+    "title": "Berita & Media",
+    "path": "/berita-media",
+    "items": [
+      "Hebahan Media",
+      "Pusat Media",
+      "Pusat Berita",
+      "Acara"
+    ],
+    "isSelected": false
+  },
+  {
+    "title": "Hubungi Kami",
+    "path": "/hubungi",
+    "items": [
+      "Maklumat Perhubungan",
+      "Kerjaya",
+      "Perolehan"
+    ],
+    "isSelected": false
+  }
+]

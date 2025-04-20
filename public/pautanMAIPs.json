@@ -1,0 +1,27 @@
+[  
+    {
+        "image": "/maips/maips1.svg",
+        "title": "Pejabat DYMM Tuanku Raja Perlis",
+        "link": "https://dymm.perlis.gov.my/"
+        },
+        {
+            "image": "/maips/maips2.svg",
+            "title": "Jabatan Mufti Perlis",
+            "link": "https://muftiperlis.gov.my/index.php/en/"
+        },
+        {
+            "image": "/maips/maips1.svg",
+            "title": "JAIPs",
+            "link": "https://jaips.perlis.gov.my/"
+        },
+        {
+            "image": "/maips/maips1.svg",
+            "title": "Jabatan Kehakiman Syariah Perlis",
+            "link": "https://jksn.perlis.gov.my/"
+        },
+        {
+            "image": "/maips/maips3.svg",
+            "title": "KUIPs",
+            "link": "https://kuips.edu.my/"
+        }
+]
